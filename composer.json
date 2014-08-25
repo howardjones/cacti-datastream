@@ -1,0 +1,7 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+        "crodas/influx-php": "*",
+        "videlalvaro/php-amqplib": "*"
+    }
+}
